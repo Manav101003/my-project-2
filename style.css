@@ -2,12 +2,19 @@ body{
     background-image: url("/css1.webp");
     background-size: cover;
 } 
+.MANAV{
+    height: "100vh";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 form{
     background-color: beige;
     border: 10px solid orange;
     padding: 20px;
     margin: 50px;
     width: 450px;
+    align-content: center;
 }
 h1{
     text-align: center;
